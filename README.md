@@ -10,3 +10,5 @@
   <li>Click play</li>
   <li>Play Roblox!</li>
 </ol>
+<h2>About Roblox Corporation</h2>
+<bd>Roblox Corporation is an American video game developer based in San Mateo, California. Founded in 2004 by David Baszucki and Erik Cassel, the company is the developer of Roblox, which was released in 2006. As of June 30, 2021, Roblox Corporation employs 1,234 people.</bd>
