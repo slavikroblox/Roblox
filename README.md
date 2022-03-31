@@ -1,3 +1,5 @@
 <h1>Roblox</h1>
 <h2>What is Roblox?</h2>
-<bd>Roblox is a vast online platform where kids can create and interact in what its makers describe as "immersive 3D worlds." Players are given the opportunity to create an avatar (player) for themselves and allotted a small amount of digital money to rent a house.</bd>
+<bd>is an online game platform and game creation system developed by Roblox Corporation that allows users to program games and play games created by other users. Created by David Baszucki and Erik Cassel in 2004 and released in 2006, the platform hosts user-created games of multiple genres coded in the programming language Lua. For most of Roblox's history, it was relatively small, both as a platform and a company. Roblox began to grow rapidly in the second half of the 2010s, and this growth has been accelerated by the COVID-19 pandemic.[7][8]</bd>
+<bd>Roblox is free to play, with in-game purchases available through a virtual currency called Robux. As of August 2020, Roblox had over 164 million monthly active users, including more than half of all American children under 16.[9][10]</bd>
+<bd>Although Roblox has received generally positive reviews from critics, it has faced criticism for its moderation, microtransactions, and alleged exploitative practices directed toward children.</bd>
